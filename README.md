@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **AI applications**
 
-- 📫 How to reach me **yelmaras@ualberta.ca**
+- 📫 How to reach me **yelmaras@ualberta.ca** or through my LinkedIn page which is linked below!
 
 - ⚡ Fun fact **I learn languages quickly**
 

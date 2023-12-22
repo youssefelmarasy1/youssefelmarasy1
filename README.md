@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youssefelmarasy1" alt="youssefelmarasy1" /></a> </p>
 
-<img align="right" alt="coding gif" width="250" src="[https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif](https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)">
+<img align="right" alt="coding gif" width="250" src="[https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif](https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)]">
 
 - 🔭 I’m currently working on [AI-Enhanced Autonomous Steering System](https://sites.google.com/view/ehsan-hashemi-uwaterloo/research?authuser=0#h.1x752okm9cp)
 

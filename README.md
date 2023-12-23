@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/youssefelmarasy1](https://github.com/youssefelmarasy1)
 
-- 💬 Ask me about **AI applications**
+- 💬 Ask me about **AI real-life applications**
 
 - 📫 How to reach me **yelmaras@ualberta.ca** or through my LinkedIn page which is linked below!
 

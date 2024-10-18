@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **AI real-life applications**
 
-- 📫 How to reach me **yelmaras@ualberta.ca** or through my LinkedIn page which is linked below!
+- 📫 How to reach me **youssefelmarasy@gmail.com** or through my LinkedIn page which is linked below!
 
 - ⚡ Fun fact **I learn languages quickly**
 
